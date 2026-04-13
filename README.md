@@ -1,5 +1,5 @@
 # 🤖 Taskify **Desktop App**
-
+An AI To-do List app
 **Beautiful cross-platform desktop app** with AI task intelligence!
 
 ## ✨ **App Features**
