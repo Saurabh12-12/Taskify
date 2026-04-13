@@ -21,6 +21,7 @@
 -Double-click any task to complete
 -Insights button shows productivity stats
 
+Screenshot [https://github.com/Saurabh12-12/Taskify-desktop-app/blob/905f9cd4857384bb0fd1ba87cb467bb557e04b32/Taskify%20app.png]
 
 ## **One-Click Setup**
 
