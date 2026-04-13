@@ -8,6 +8,19 @@
 - **📊 Live Insights** - Completion stats & focus tracking
 - **💾 Auto-save** - Persistent across sessions
 - **🎯 Double-click Complete** - Fast task completion
+- 
+- **Tech Stacks**
+-Frontend: CustomTkinter (Native dark mode)
+-AI: NLTK + VADER Sentiment
+-Data: JSON persistence
+-Cross-platform: Windows/macOS/Linux
+
+**How to Use**
+-Type naturally: "Finish report Friday urgent"
+-AI auto-analyzes: Priority, category, sentiment
+-Double-click any task to complete
+-Insights button shows productivity stats
+
 
 ## **One-Click Setup**
 
@@ -19,3 +32,4 @@ cd ai-todo-app
 # Install & Run
 python setup.py      # Option 3 for full setup
 python ai_todo_app.py
+
